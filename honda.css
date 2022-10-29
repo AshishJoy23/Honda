@@ -1,0 +1,171 @@
+.items{
+    display: flex;
+    
+    margin-left: 8%;
+    margin-top: 3%;
+    
+}
+.headerdiv{
+    /* display: flex; */
+    width: 100%;
+}
+.headernav{
+    display: flex;
+    flex-direction: row;
+}
+.listitems{
+    width: 100%;
+}
+.listitems ul{
+   font-size: smaller;
+}
+.link-items{
+    margin-top: 3%;
+    margin-left: 17%;
+    font-size: small;
+    position: fixed;
+    width: 100%;
+    
+}
+.top-header{
+    margin-left: 18.5%;
+    width: 73%;
+    padding-top: 2%;
+    position: fixed;
+    
+}
+.logo{
+    margin-left: -30%;
+    margin-top: 2%;
+    position: fixed;
+    width: 11%;
+     
+
+}
+
+img{
+width: 100%;
+
+}
+
+.two{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.heading{
+    /* padding-left: 20px; */
+    color: #c70909;
+    font-weight: normal;
+  
+   
+}
+.wheel{
+    width: 6%;
+    height:2%;
+    margin: 0;
+}
+.wheel1{
+    width: 4%;
+    height:2%;
+    margin: 0;
+}
+.image{
+    display: flex;
+}
+
+.line hr{
+    width: 80px;
+    margin: 0;
+    margin-top: 0;
+    border-top: 1px solid black;
+    margin-bottom: 5px;
+}
+.line2 hr{
+    margin: 0;
+    border-top: 1px solid rgb(0, 0, 0);
+    color: black;
+    margin-bottom: 5px;
+    width: 60px;
+}
+.para{
+    font-size: 11.5px;
+    line-height: 19.5px;
+    text-align: justify;
+    font-family: Roboto, sans-serif;
+    
+}
+.slides{
+    margin-top: 1%;  
+}
+
+.blt-remove{
+list-style: none;
+
+}
+
+.news-elmnts{
+    text-decoration: none;
+    color: black;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+}
+
+.Notice{
+    height: 54px;
+    width: 86%;
+    background-color: rgb(239 6 6);
+    margin-top: 20px;
+    margin-left: 100px;
+    display: flex;
+}
+.first{
+   padding-top: 21px;
+   padding-left: 20px;
+   
+}
+.pub-notice{
+    text-decoration: none;
+    color: rgb(239 6 6);
+    font: size 20px;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    
+}
+.warning-icon{
+    width: 16px;
+    height: 23px;
+    padding-left: 10px;
+    
+}
+.second{
+margin-left: 166px;
+margin-top: -26px;
+width: 338px;
+}
+.w-text{
+  
+    background-color: white;
+    border-radius: 4px;
+    padding-top: 9px;
+    padding-left: 38px;
+    width: 184px;
+    height: 31px;
+    margin-top: -32px;
+   
+   
+}
+.ftrbtn{
+    width: 100%;
+    border: none;
+    border-left: 0.3em solid black;
+    border-right: 0.3em solid black;
+    font-weight: 600;
+    font-size: large;
+    background: transparent;
+}
+.ftrlist p{
+    font-size: smaller;
+    margin-top: 1em;
+    padding-left: 1em;
+}
